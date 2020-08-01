@@ -1,5 +1,10 @@
 
 /* ----------- Tablets larger than 768px wide ----------- */
+p,
+h1 {
+	color: #f2f0e6;
+}
+
 @media (min-width: 768px) {
 	body {
     background: red;
